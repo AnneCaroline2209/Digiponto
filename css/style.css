@@ -4,3 +4,13 @@ a:link {
 .form-perfil{
     width: 80%;
 }
+.form-infor{
+    font-weight: 500;
+}
+.form-infor > label{
+    margin-top: 10px;
+}
+hr{
+    margin-bottom: 0;
+    margin-top: 0;
+}

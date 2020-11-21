@@ -7,7 +7,7 @@
     <link rel="icon" href="img/favicon.ico">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
     <script type="text/javascript" src="hppt://maps.google.com/maps/api/js?sensor=false"></script>
-    <title>Inicio</title>
+    <title>Administrativo</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/dashboard.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
@@ -32,7 +32,7 @@
               <li class="nav-item">
                 <a class="nav-link" href="cadastro_consulta.php">
                   <i class="fas fa-user-clock"></i>                  
-                    Meu Perfil
+                    Dados Pessoais
                 </a>
               </li>
               <li class="nav-item">

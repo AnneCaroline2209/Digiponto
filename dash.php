@@ -13,7 +13,7 @@
  <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Home</title>
+   <title>Administrativo</title>
    <link rel="icon" href="img/favicon.ico">
  </head>
  <body>
@@ -101,7 +101,7 @@
           <input type="hidden" name="lt" value="" id="lt" />
           <input type="hidden" name="lg" value="" id="lg" />
           <div class="form-group mr-5 ml-3 p-0 mt-4">
-            <input type="submit" value="Lançar" class="btn btn-primary"> 
+            <input type="submit" value="Cadastrar" class="btn btn-primary"> 
           </div>
         </div>
       </form>
